@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back">Back</string>
+    <string name="go">Go</string>
+    <string name="latitude">Enter latitude :</string>
+    <string name="longitude">Enter longitude :</string>
+    <string name="first">Goto place with latitude and longitude</string>
+    <string name="second">Goto location by Name</string>
+    <string name="third">Goto Current Location</string>
+
+</resources>
