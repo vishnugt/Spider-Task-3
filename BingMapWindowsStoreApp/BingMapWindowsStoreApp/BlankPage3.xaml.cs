@@ -31,7 +31,7 @@ namespace BingMapWindowsStoreApp
 
         void InitializeMap()
         {  
-              myMap.Center = new Location(0,0);
+              myMap.Center = new Location(0,0); //should be replaced by lat an lan which are commented out some 6 lines below
               myMap.ZoomLevel = 12;
               myMap.MapType = MapType.Aerial;
               myMap.Width = 600;
