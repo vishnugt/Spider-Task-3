@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="BingMapWindowsStoreApp.BlankPage4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BingMapWindowsStoreApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:bm="using:Bing.Maps">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <bm:Map Credentials="ArvA3xELCIi2KyUB4dUNcuWTOhVlB9rOQPbNpeMRN-4-dW2fCv6fokAS3GS0UOzm" x:Name="myMap">
+        </bm:Map>
+    </Grid>
+</Page>

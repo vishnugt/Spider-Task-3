@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="BingMapWindowsStoreApp.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BingMapWindowsStoreApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="253,88,0,0" TextWrapping="Wrap" Text="Enter Location Name :" VerticalAlignment="Top" Height="113" Width="412" FontSize="36"/>
+        <TextBox x:Name="et3" HorizontalAlignment="Left" Height="113" Margin="955,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="314" FontSize="36"/>
+        <Button Content="Go" HorizontalAlignment="Left" Margin="955,287,0,0" VerticalAlignment="Top" Height="96" Width="314" FontSize="36" Click="Button_Click"/>
+
+    </Grid>
+</Page>

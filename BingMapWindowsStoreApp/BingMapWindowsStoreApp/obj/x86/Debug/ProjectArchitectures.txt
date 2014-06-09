@@ -1,0 +1,1 @@
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\BingMapWindowsStoreApp\BingMapWindowsStoreApp\BingMapWindowsStoreApp.csproj;x86
